@@ -20,7 +20,7 @@ Bolsista de Projeto de Extensão UFRN - Líder de ensino no Um robô por aluno -
 
 Conhecimentos Básicos - Git e Github, impressão 3D e modelagem, eletrônica e sistemas embarcados, Iot, Esp32.  
 
-Conhecimento intermediário de software de produtividade - Pacote Office, Google Workspace, Drive, Notion e Canvas.
+Conhecimento intermediário de software em produtividade - Pacote Office, Google Workspace, Drive, Notion e Canvas.
 
 Conhecimento Intermediário - Arduino, eletrônica e robótica.
 
