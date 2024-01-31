@@ -1,4 +1,4 @@
-Luana Camily S. Mendonça
+CURRICULO - Luana Camily S. Mendonça
 
 FORMAÇÃO
 
@@ -18,7 +18,7 @@ EXPERIÊNCIAS
 
 Bolsista de Projeto de Extensão UFRN - Líder de ensino no Um robô por aluno - Comunicação e Oratória, métodos de aprendizagem, planejamento, organização, gestão de pessoas e trabalho em equipe.
 
-Conhecimentos Básicos -  Impressão 3D e modelagem, eletrônica e sistemas embarcados, Iot, Esp32.  
+Conhecimentos Básicos -  Git e Github, impressão 3D e modelagem, eletrônica e sistemas embarcados, Iot, Esp32.  
 
 Conhecimento intermediário de software de produtividade - Pacote Office, Google Workspace, Drive, Notion e Canvas.
 
