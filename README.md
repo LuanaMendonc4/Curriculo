@@ -18,7 +18,9 @@ EXPERIÊNCIAS
 
 Bolsista de Projeto de Extensão UFRN - Líder de ensino no Um robô por aluno - Comunicação e Oratória, métodos de aprendizagem, planejamento, organização, gestão de pessoas e trabalho em equipe.
 
-Conhecimentos Básicos - Git e Github, impressão 3D e modelagem, eletrônica e sistemas embarcados, Iot, Esp32.  
+Bolsista de apoio técnico no Laboratório de Automação e Robótica (LAR).
+
+Conhecimentos Básicos - Git e Github.
 
 Conhecimento intermediário de software em produtividade - Pacote Office, Google Workspace, Drive, Notion e Canvas.
 
